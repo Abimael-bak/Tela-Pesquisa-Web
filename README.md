@@ -48,5 +48,9 @@ Abimael de Jesus Abreu
 LinkedIn
 GitHub
 
+## 🔗 Projeto online
+
+Acesse o projeto publicado no GitHub Pages:  
+[👉 Clique aqui para ver a interface](https://abimael-bak.github.io/Tela-Pesquisa-Web/)
 
 

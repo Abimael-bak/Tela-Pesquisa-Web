@@ -16,7 +16,7 @@ Projeto front-end criado para praticar estruturação com HTML e estilização c
 
 ## 📸 Exemplo da interface
 
-![Tela do projeto](tela.png)
+![Tela do projeto](tela.png.png)
 
 ---
 
